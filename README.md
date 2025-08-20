@@ -95,9 +95,6 @@ Utilizamos las siguientes anotaciones de JPA para mapear las clases modelo a tab
 
 Estas anotaciones permiten que las clases de modelo se conviertan en entidades persistentes en una base de datos relacional, facilitando la interacción con la base de datos a través de repositorios y servicios.
 
-## 👨‍💻 Desarrollado por
-- David Velasco Fierros
-
 ## Instrucciones de Uso 🚀
 
 1. Clona este repositorio en tu máquina local.
@@ -107,18 +104,3 @@ Estas anotaciones permiten que las clases de modelo se conviertan en entidades p
 5. Sigue las instrucciones en pantalla para buscar libros, autores y obtener estadísticas.
 
 ¡Disfruta gestionando tu biblioteca de libros!
-
-## 📷 Capturas de pantalla
-Aquí puedes ver una demostración visual de cómo funciona el proyecto:
-
-![literalura0](https://github.com/DavidVF7/Literalura/assets/103916971/15036550-36ce-454b-9df3-29c48e074e9a)
-![literalura1](https://github.com/DavidVF7/Literalura/assets/103916971/3adddd81-8234-4a3b-991c-51262b293038)
-![literalura2](https://github.com/DavidVF7/Literalura/assets/103916971/50bb1371-066b-4435-a3cd-ebd46a5027a8)
-![literalura3](https://github.com/DavidVF7/Literalura/assets/103916971/63694054-500b-4c49-96c2-7427b11f8212)
-![literalura4](https://github.com/DavidVF7/Literalura/assets/103916971/17939e0f-5636-485a-b135-a8d1a25385bd)
-![literalura5](https://github.com/DavidVF7/Literalura/assets/103916971/3342f7fc-c265-45c9-970b-17134753cbb8)
-![literalura6](https://github.com/DavidVF7/Literalura/assets/103916971/59453c4e-a805-4806-841e-e96c6fcad20a)
-![literalura7](https://github.com/DavidVF7/Literalura/assets/103916971/e36a204f-b322-4469-bba7-a00f627d07af)
-![literalura8](https://github.com/DavidVF7/Literalura/assets/103916971/3ba63d40-f491-4c2f-8b41-7a4c43435252)
-![literalura9](https://github.com/DavidVF7/Literalura/assets/103916971/25e7ca8d-2195-416d-a6b3-7efc4d8a81f8)
-![literalura10](https://github.com/DavidVF7/Literalura/assets/103916971/67dd0bd2-f838-4afe-8bbb-cc8d1fe6bbe9)
